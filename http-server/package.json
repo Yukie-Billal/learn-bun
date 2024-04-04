@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/bun": "^1.0.12",
+    "@types/figlet": "^1.5.8"
+  },
+  "scripts": {
+    "start": "bun run index.ts",
+    "dev": "bun run --hot index.ts"
+  },
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
